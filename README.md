@@ -1,4 +1,5 @@
 # Code Challenge - Javascript 3
+
 - Over the next few weeks, we will be testing your knowledge on several code concpets to ensure that you understand them.
 - These assessments are meant to give you coding practice and to ensure that you follow directions and understand them.
 - We are here to help you get through them if needed.
@@ -13,10 +14,11 @@
 $ cd workspace/foundations/exercises
 ```
 
-2. Clone this repo to your local
+2. Clone this repo to your local and move into it
 
 ```
 $ git clone [LINK_TO_THIS_REPO]
+$ cd YOUR-REPO-NAME
 ```
 
 3. Install packages
